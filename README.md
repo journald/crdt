@@ -1,6 +1,6 @@
 # CRDT
 
-CRDT stand for [Conflict-free Replicated Data Types] are a kind of data
+CRDT stand for [Commutative and/or Conflict-free Replicated Data Types](http://arxiv.org/pdf/0907.0929v1.pdf) are a kind of data
 structures that you can use to achieve consensus when implementing _distributed
 systems_.
 
